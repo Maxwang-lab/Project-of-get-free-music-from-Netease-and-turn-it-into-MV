@@ -1,3 +1,4 @@
+print("Before you run the rest of this program, make sure you downloaded the FFmpeg and add it into the System Path.")
 import requests
 import json
 import os
